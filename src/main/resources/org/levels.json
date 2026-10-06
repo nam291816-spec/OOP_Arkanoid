@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "dropRate": 0.18,
+    "cell": { "width": 50, "height": 25, "padding": 0 },
+    "offset": { "x": 0, "y": 60 },
+    "layout": [
+      "................",
+      "UUUUUUUUUUUUUUUU",
+      "................",
+      "SSSSSSSSSSSSSSSS",
+      "................",
+      "NNNNNNNNNNNNNNNN",
+      "................",
+      "................"
+    ],
+    "palette": {
+      "N": { "type": "NormalBrick", "hp": 1, "id": "NB" },
+      "S": { "type": "StrongBrick", "hp": 4, "id": "SB"},
+      "U": { "type": "UnbreakableBrick", "hp": 999, "id": "UB" }
+    }
+  },
+  {
+    "id": 2,
+    "dropRate": 0.18,
+    "cell": { "width": 50, "height": 25, "padding": 0 },
+    "offset": { "x": 0, "y": 60 },
+    "layout": [
+      "S...............",
+      "NS..............",
+      "NNS.............",
+      "NNNS............",
+      "NNNNS...........",
+      "NNNNNS..........",
+      "NNNNNNS.........",
+      "NNNNNNNS........",
+      "NNNNNNNNS.......",
+      "NNNNNNNNNS......",
+      "UUUUUUUUUUU....."
+    ],
+    "palette": {
+      "N": { "type": "NormalBrick", "hp": 1, "id": "NB" },
+      "S": { "type": "StrongBrick", "hp": 4, "id": "SB"},
+      "U": { "type": "UnbreakableBrick", "hp": 999, "id": "UB" }
+    }
+  },
+  {
+    "id": 3,
+    "dropRate": 0.25,
+    "cell": { "width": 50, "height": 25, "padding": 0 },
+    "offset": { "x": 0, "y": 60 },
+    "layout": [
+      "................",
+      "SSSSSSSSSSSSSSSS",
+      "................",
+      "................",
+      "................",
+      "NNN...NNNN...NNN",
+      "UUS...SUUS...SUU",
+      "UUS...SUUS...SUU",
+      "SSS...SSSS...SSS",
+      "................",
+      "................",
+      "................",
+      "NNNNNNNNNNNNNNNN",
+      "................",
+      "................"
+    ],
+    "palette": {
+      "N": { "type": "NormalBrick", "hp": 1, "id": "NB" },
+      "S": { "type": "StrongBrick", "hp": 4, "id": "SB"},
+      "U": { "type": "UnbreakableBrick", "hp": 999, "id": "UB" }
+    }
+  },
+  {
+    "id": 4,
+    "dropRate": 0.25,
+    "cell": { "width": 50, "height": 25, "padding": 0 },
+    "offset": { "x": 0, "y": 60 },
+    "layout": [
+      "................",
+      "................",
+      "................",
+      "................",
+      "......U..U......",
+      "......U..U......",
+      "NNNNNNU..UNNNNNN",
+      "SSSSSSU..USSSSSS",
+      "NNNNNNU..UNNNNNN",
+      "SSSSSSU..USSSSSS",
+      "NNNNNNU..UNNNNNN",
+      "UUUUUUU..UUUUUUU",
+      "................",
+      "................"
+    ],
+    "palette": {
+      "N": { "type": "NormalBrick", "hp": 1, "id": "NB" },
+      "S": { "type": "StrongBrick", "hp": 4, "id": "SB"},
+      "U": { "type": "UnbreakableBrick", "hp": 999, "id": "UB" }
+    }
+  },
+  {
+    "id": 5,
+    "dropRate": 0.25,
+    "cell": { "width": 50, "height": 25, "padding": 3 },
+    "offset": { "x": 0, "y": 60 },
+    "layout": [
+      "UUUUUUUUUUUUU...",
+      ".............UUU",
+      ".............U..",
+      ".UUUUUUUUUU.U...",
+      ".U........U.U...",
+      ".U.UUUUUU.U.U...",
+      ".U.U....U.U.U...",
+      ".U.U.UU.U.U.U...",
+      ".U.U.NU.U.U.U...",
+      ".U.UUUU.U.U.U...",
+      ".U......U.U.U...",
+      ".UUUUUUUU.U.U...",
+      "..........U.U...",
+      "UUUUUUUUUUU.UUUU"
+    ],
+    "palette": {
+      "N": { "type": "NormalBrick", "hp": 1, "id": "NB" },
+      "S": { "type": "StrongBrick", "hp": 4, "id": "SB"},
+      "U": { "type": "UnbreakableBrick", "hp": 999, "id": "UB" }
+    }
+  }
+
+]
