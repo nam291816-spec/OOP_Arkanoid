@@ -6,24 +6,11 @@ Dự án được thực hiện nhằm rèn luyện kỹ năng:
 - Sử dụng UML Class Diagram để phân tích & thiết kế hệ thống
 - Xây dựng giao diện đồ họa bằng JavaFX
 
-🎥 **Gameplay Demo:** [Xem tại đây](https://drive.google.com/drive/folders/12FZ0r2pNoJpW-w0vePegvfVaz3QXQic2?usp=sharing)
+
 
 ---
 
-## 📝 Phân công & Tiến độ
 
-### 👥 **Phân công thành viên**
-
-| Thành viên | Vai trò & Phụ trách chính |
-|-------------|---------------------------|
-| **Nguyễn Văn Hoàng Anh** | 🎮 *GameLoop, Level, State Management*<br>Điều phối vòng đời game, quản lý trạng thái & chuyển cảnh.<br>Thực hiện nạp/reset level, xử lý Input & Audio. |
-| **Đặng Danh Công** | ⚙️ *GameObject, PowerUp, Collision*<br>Xây dựng mô hình đối tượng, định nghĩa vật lý và hành vi.<br>Phát triển PowerUp (ExpandBall, FastBall, ExtraLife, Boom), tối ưu va chạm. |
-| **Bạch Công Dũng** | 🧩 *Graphics, UI, HUD*<br>Thiết kế giao diện các trạng thái game.<br>Vẽ vật thể, HUD (điểm, mạng, cấp độ, hiệu ứng PowerUp). |
-| **Triệu Tiến Dũng** | 🔊 *Input, Audio, IO*<br>Tạo hệ thống Input ổn định (giữ/nhả phím).<br>Kết nối lưu game, tích hợp âm thanh SFX, BGM và quản lý âm lượng. |
-
-📄 *Chi tiết xem thêm tại:*  [OOP_Arkanoid – Bản Phân công & Tiến độ](https://docs.google.com/document/d/1MwbD6uhr3v-cIk2BGSbE6FeJMgA0Oc5OobyCX7PFZLo/edit?usp=sharing)
-
----
 
 ## 🧩 Sơ đồ lớp UML
 
